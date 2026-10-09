@@ -1,5 +1,5 @@
 HealthNavGZ crawler files
 
-The canonical domain configured in robots.txt and sitemap.xml is https://healthnavgz.com/. Deploy the site at this domain over HTTPS for those crawler URLs to resolve correctly. Keep robots.txt and sitemap.xml at the website root, then submit https://healthnavgz.com/sitemap.xml through the search engine webmaster tools you use.
+The canonical domain configured in robots.txt and sitemap.xml is https://healthnavgz.online/. Deploy the site at this domain over HTTPS for those crawler URLs to resolve correctly. Keep robots.txt and sitemap.xml at the website root, then submit https://healthnavgz.online/sitemap.xml through the search engine webmaster tools you use.
 
 These files help crawlers discover pages but cannot guarantee that any page will be indexed or ranked.
